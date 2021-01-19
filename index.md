@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to my profile page
 
-You can use the [editor on GitHub](https://github.com/rogfrich/profile/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hi, I'm Rich, nice to meet you!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About Me
 
-### Markdown
+I'm a Geordie, deep undercover in Yorkshire (don't tell anyone, they think I'm one of their own...).  I work in IT for a financial services company. I've been a hobbyist coder for quite a while - my job doesn't involve programming, but I do work closely with the dev teams and I've picked up a few things here and there. Most of my coding is self-taught, and tends to be system-admin type scripts in Python, with a little bit of server-side web stuff as well (mostly Django). I'm exited to be on the Coder's Guild JAMstack course, because my front-end knowledge is very limited, and my JS knowledge is non-existant (well, I can make an alert box pop up, that's something).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Non-techie hobbies include photography and playing guitar.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rogfrich/profile/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
