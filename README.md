@@ -1,2 +1,5 @@
-# profile
-My profile page for JAMstack Session 2.
+# Profile page for Rich
+
+Hello, this is my profile page. I'm Rich, nice to meet you.
+
+
